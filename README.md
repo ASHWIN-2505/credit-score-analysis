@@ -67,26 +67,23 @@ Key features include:
 
 ### Credit Score Distribution
 
-![Credit Score Distribution](Credit score distribution.png)
-
+![Credit Score Distribution](screenshots/credit_score_distribution.png)
 
 ### Income vs Credit Score
 
-![Income vs Credit Score](income vs credit score.png)
+![Income vs Credit Score](screenshots/income_vs_credit_score.png)
 
 ### Delayed Payments vs Credit Score
 
-![Delayed Payments](delayed payment vs credit score.png)
-
+![Delayed Payments](screenshots/delayed_payments_vs_credit_score.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation vs heat map.png)
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
 ### Age Group vs Credit Score
 
-![Age vs Credit Score](age group vs credit score.png)
-
+![Age Group vs Credit Score](screenshots/age_group_vs_credit_score.png)
 
 ---
 
